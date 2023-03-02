@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+This project is a web application that was built using Next.js, a popular React-based web framework. With Next.js, the application benefits from server-side rendering, automatic code splitting, and other performance optimizations.
+
+The project also leverages Tailwind CSS, a utility-first CSS framework that allows for rapid prototyping and customization. With Tailwind, developers can create responsive and mobile-first layouts with ease.
+
+Furthermore, this application includes parallax scrolling, an effect that creates an illusion of depth and perspective by moving background and foreground elements at different speeds. Parallax scrolling adds a touch of interactivity and creativity to the user experience.
+
+In summary, this web application showcases the power and flexibility of Next.js, the ease and versatility of Tailwind CSS, and the visual appeal of parallax scrolling.
+
+
 ## Getting Started
 
 First, run the development server:
